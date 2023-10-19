@@ -49,12 +49,6 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
-          <li><a href="events.html">Events</a></li>
-          <li><a class="active" href="pricing.html">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -101,7 +95,6 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -118,7 +111,7 @@
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
             <div class="box featured">
               <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h4><sup>EGP</sup>200<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -135,7 +128,7 @@
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
             <div class="box">
               <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h4><sup>EGP</sup>400<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -153,7 +146,7 @@
             <div class="box">
               <span class="advanced">Advanced</span>
               <h3>Ultimate</h3>
-              <h4><sup>$</sup>49<span> / month</span></h4>
+              <h4><sup>EGP</sup>600<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>

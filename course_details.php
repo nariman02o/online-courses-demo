@@ -49,12 +49,14 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a class="active" href="courses.html">Courses</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
-          <li><a href="events.html">Events</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
+        <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="aboutus.php">About us</a></li>
+          <li><a href="courses.php">Courses</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
+          <li><a href="events.php">Events</a></li>
+          <li><a href="pricing.php">Pricing</a></li>
+          <li><a href="login.php">Login</a></li>
+          <li><a href="signup.php">Sign up</a></li>
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -78,7 +80,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="courses.html" class="get-started-btn">Get Started</a>
+      <a href="courses.php" class="get-started-btn">Get Started</a>
 
     </div>
   </header><!-- End Header -->
@@ -243,7 +245,7 @@
               A108 Adam Street <br>
               New York, NY 535022<br>
               United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <strong>Phone:</strong> mobile  number<br>
               <strong>Email:</strong> info@example.com<br>
             </p>
           </div>
@@ -272,7 +274,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>join us description</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>

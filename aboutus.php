@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About - Mentor Bootstrap Template</title>
+  <title>About us</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -49,14 +49,14 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a class="active" href="about.html">About</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
-          <li><a href="events.html">Events</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li> <a href="login.html">Login</a></li>
-          <li> <a href="Signup.html">Sign up</a></li>
+        <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="aboutus.php">About us</a></li>
+          <li><a href="courses.php">Courses</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
+          <li><a href="events.php">Events</a></li>
+          <li><a href="pricing.php">Pricing</a></li>
+          <li><a href="login.php">Login</a></li>
+          <li><a href="signup.php">Sign up</a></li>
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>

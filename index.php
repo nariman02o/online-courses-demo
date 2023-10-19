@@ -49,7 +49,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.html">Home</a></li>
+          <li><a class="active" href="index.php">Home</a></li>
           <li><a href="aboutus.php">About us</a></li>
           <li><a href="courses.php">Courses</a></li>
           <li><a href="trainers.php">Trainers</a></li>
