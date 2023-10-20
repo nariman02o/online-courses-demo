@@ -49,6 +49,14 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
+        <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="aboutus.php">About us</a></li>
+          <li><a href="courses.php">Courses</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
+          <li><a href="events.php">Events</a></li>
+          <li><a href="pricing.php">Pricing</a></li>
+          <li><a href="login.php">Login</a></li>
+          <li><a href="signup.php">Sign up</a></li>
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -95,6 +103,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <h3>Free</h3>
+              <h4><sup>EGP</sup>0<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
