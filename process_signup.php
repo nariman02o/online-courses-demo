@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             // Insert successful, redirect to the login page
             header("Location: login.php"); // Replace "login.php" with the actual URL of your login page
             exit; // Ensure that no further code is executed after the header redirect
-        } catch (PDOException $e) {
+        } catch (PDOException $e) {// run time exeption
             echo "Error: " . $e->getMessage();
         }
     }

@@ -90,7 +90,8 @@
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
         <h2>Pricing</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <p>
+        At Mentor, we believe in making quality education accessible to all. Our transparent and flexible pricing options are designed to cater to a variety of needs, ensuring that everyone can benefit from our courses and services. We are committed to providing exceptional value for your investment in your education and personal or professional growth.           </p>
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -243,11 +244,11 @@
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="www.twitter.com" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="www.facebook.com" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="www.instagram.com" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="www.linkedin.com" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->

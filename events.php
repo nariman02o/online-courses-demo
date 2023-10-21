@@ -91,7 +91,9 @@
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
         <h2>Events</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <p>
+        Are you ready to be inspired, learn from experts, and connect with like-minded individuals? Join us for our unique events, a one-of-a-kind gathering that promises to be a transformative experience.
+        </p>
       </div>
     </div><!-- End Breadcrumbs -->
 

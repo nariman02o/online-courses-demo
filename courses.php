@@ -90,7 +90,9 @@
     <div class="breadcrumbs">
       <div class="container">
         <h2>Courses</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <p>Whether you dream of developing the next groundbreaking app, securing digital ecosystems, or advancing your career in the tech industry, our computer science courses provide the foundation you need to succeed. Join [Your LMS Name] and start your adventure in the world of computer science. The future of technology is in your hands.
+
+        </p>
       </div>
     </div><!-- End Breadcrumbs -->
 

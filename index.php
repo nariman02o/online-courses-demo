@@ -96,8 +96,8 @@
 
   <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+     <!-- ======= About Section ======= -->
+     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
@@ -105,18 +105,18 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Join our vibrant online community of learners, educators, and professionals who share your passion for knowledge and self-improvement. Whether you're an individual looking to upskill, an organization seeking to train your workforce, or an educator wanting to reach a global audience,</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Become a part of our ever-growing learning family, where opportunities for personal and professional development are boundless. We welcome students, professionals, and organizations seeking a trusted partner in education.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circle"></i> Personalized Learning: Tailor your learning experience to your individual needs and preferences. Learn at your own pace, in your own space..</li>
+              <li><i class="bi bi-check-circle"></i> Achievement Recognition: Receive certificates and badges upon completing courses, helping you stand out in your field.</li>
+              <li><i class="bi bi-check-circle"></i> Expert Instructors: Our courses are created and taught by experts who are passionate about sharing their knowledge and expertise with you.</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            Mentor is more than just an online platform; it's a dynamic community driven by the belief that knowledge has the power to transform lives.
+            Start your learning journey with us today and unlock your full potential.
             </p>
 
           </div>
