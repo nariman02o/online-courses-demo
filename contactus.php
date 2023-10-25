@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contact - Mentor Bootstrap Template</title>
+  <title>Contact us - Black Horse</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -43,7 +43,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Mentor</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">Black Horse</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -91,7 +91,7 @@
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
         <h2>Contact Us</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <p>We're thrilled that you want to connect with us. Whether you have questions, suggestions, or just want to say hello, this is the place to do it. Your feedback is incredibly valuable to us, and we're here to listen. Please feel free to reach out, and let's start a conversation!</p>
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -110,19 +110,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Al Manteqah as Sadesah, Nasr City,cairo</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>Black.horse.courses.academy@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+0201550093415</p>
               </div>
 
             </div>
@@ -171,13 +171,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
+            <h3>Black</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            Al Manteqah as Sadesah<br>
+            ,Nasr City,cairo<br>
+              Egypt<br><br>
+              <strong>Phone:</strong> +0201550093415<br>
+              <strong>Email:</strong> Black.horse.courses.academy@gmail.com<br>
             </p>
           </div>
 
@@ -195,17 +195,20 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Basic English Course (A1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Elementary English Course (A2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Intermediate English Course (B1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Upper-Intermediate English Course (B2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Advanced English Course (C1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Proficiency English Course (C2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Business English Course</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Exam Preparation (IELTS, TOEFL)</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Join us</h4>
+            <p>Are you ready to embark on a transformative learning experience? Our state-of-the-art Learning Management System (LMS) is your gateway to mastering the English language. Whether you're a beginner looking to build a strong foundation or an advanced learner aiming to refine your skills, we have something for everyone.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -219,14 +222,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>BlackHorse</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="https://bootstrapmade.com/">Bootstrap</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">

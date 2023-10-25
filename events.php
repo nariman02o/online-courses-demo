@@ -43,13 +43,13 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Mentor</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">BlackHorse</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-        <li><a class="active" href="index.html">Home</a></li>
+        <li><a class="active" href="index.php">Home</a></li>
           <li><a href="aboutus.php">About us</a></li>
           <li><a href="courses.php">Courses</a></li>
           <li><a href="trainers.php">Trainers</a></li>
@@ -60,7 +60,7 @@
 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
+              <li><a href="#">Basic English Course (A1)</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -70,9 +70,9 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Elementary English Course (A2)</a></li>
+              <li><a href="#">Intermediate English Course (B1)</a></li>
+              <li><a href="#">Upper-Intermediate English Course (B2)</a></li>
             </ul>
           </li>
           <li><a href="contact.html">Contact</a></li>
@@ -108,9 +108,12 @@
                 <img src="assets/img/events-1.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Introduction to webdesign</a></h5>
+                <h5 class="card-title"><a href="">Introduction to English</a></h5>
                 <p class="fst-italic text-center">Sunday, September 26th at 7:00 pm</p>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <p class="card-text"> - Introduction to the English alphabet and phonetics.
+   - Basic vocabulary and greetings.
+   - Simple sentence structure and grammar.
+</p>
               </div>
             </div>
           </div>
@@ -120,9 +123,12 @@
                 <img src="assets/img/events-2.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Marketing Strategies</a></h5>
+                <h5 class="card-title"><a href="">Business English Workshop</a></h5>
                 <p class="fst-italic text-center">Sunday, November 15th at 7:00 pm</p>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <p class="card-text">- Tailored for professionals.
+   - Business communication, emails, and reports.
+   - Negotiation and presentation skills.
+</p>
               </div>
             </div>
 
@@ -142,13 +148,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
+            <h3>BlackHorse</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            Al Manteqah as Sadesah<br>
+              ,Nasr City,cairo<br>
+              Egypt<br><br>
+              <strong>Phone:</strong> +0201550093415<br>
+              <strong>Email:</strong> Black.horse.courses.academy@gmail.com<br>
             </p>
           </div>
 
@@ -166,17 +172,20 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Basic English Course (A1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Elementary English Course (A2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Intermediate English Course (B1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Upper-Intermediate English Course (B2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Advanced English Course (C1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Proficiency English Course (C2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Business English Course</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Exam Preparation (IELTS, TOEFL)</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+          <h4>Join us</h4>
+            <p>Are you ready to embark on a transformative learning experience? Our state-of-the-art Learning Management System (LMS) is your gateway to mastering the English language. Whether you're a beginner looking to build a strong foundation or an advanced learner aiming to refine your skills, we have something for everyone.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -190,14 +199,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>BlackHorse</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="https://bootstrapmade.com/">Bootstrap</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">

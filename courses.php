@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Courses - Mentor Bootstrap Template</title>
+  <title>Courses - BlackHorse</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -74,7 +74,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contactus.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -90,8 +90,8 @@
     <div class="breadcrumbs">
       <div class="container">
         <h2>Courses</h2>
-        <p>Whether you dream of developing the next groundbreaking app, securing digital ecosystems, or advancing your career in the tech industry, our computer science courses provide the foundation you need to succeed. Join [Your LMS Name] and start your adventure in the world of computer science. The future of technology is in your hands.
-
+        <p>
+        Are you ready to embark on a transformative learning experience? Our state-of-the-art Learning Management System (LMS) is your gateway to mastering the English language. Whether you're a beginner looking to build a strong foundation or an advanced learner aiming to refine your skills, we have something for everyone.
         </p>
       </div>
     </div><!-- End Breadcrumbs -->
@@ -107,16 +107,20 @@
               <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Web Development</h4>
-                  <p class="price">$169</p>
+                  <h4>Beginner Level (CEFR A1-A2)</h4>
+                  <p class="price">170 EGP</p>
                 </div>
 
-                <h3><a href="course-details.html">Website Design</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <h3><a href="course-details.php">Intermediate English Course (A1):</a></h3>
+                <p> - Building more complex sentences.
+                    - Expanded vocabulary for everyday life and travel.
+                    - Verb tenses and grammar rules.
+
+                </p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
-                    <span>Antonio</span>
+                    <span>Ahmed</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;50
@@ -133,12 +137,16 @@
               <img src="assets/img/course-2.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Marketing</h4>
-                  <p class="price">$250</p>
+                  <h4>Beginner Level (CEFR B1-B2):</h4>
+                  <p class="price">250 EGP</p>
                 </div>
 
-                <h3><a href="course-details.html">Search Engine Optimization</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <h3><a href="course-details.html">Basic English Course (B1):</a></h3>
+                <p> - Introduction to the English alphabet and phonetics.
+                    - Basic vocabulary and greetings.
+                    - Simple sentence structure and grammar.
+
+                </p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
@@ -159,16 +167,20 @@
               <img src="assets/img/course-3.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Content</h4>
-                  <p class="price">$180</p>
+                  <h4>Advanced Level (CEFR C1-C2):</h4>
+                  <p class="price">300 EGP</p>
                 </div>
 
-                <h3><a href="course-details.html">Copywriting</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <h3><a href="course-details.html">Advanced English Course (C1):</a></h3>
+                <p> - Proficiency in spoken and written English.
+                    - Advanced vocabulary and idioms.
+                    - In-depth grammar, including complex verb tenses.
+                    - Writing essays, reports, and summaries.
+                 </p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
-                    <span>Brandon</span>
+                    <span>Bassem</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;20
@@ -195,13 +207,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
+            <h3>BlackHorse</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            Al Manteqah as Sadesah<br>
+            ,Nasr City,cairo<br>
+            Egypt<br><br>
+            <strong>Phone:</strong> +0201550093415<br>
+            <strong>Email:</strong> Black.horse.courses.academy@gmail.com<br>
             </p>
           </div>
 
@@ -219,17 +231,20 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Basic English Course (A1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Elementary English Course (A2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Intermediate English Course (B1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Upper-Intermediate English Course (B2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Advanced English Course (C1)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Proficiency English Course (C2)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Business English Course</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Exam Preparation (IELTS, TOEFL)</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Join us</h4>
+            <p>Are you ready to embark on a transformative learning experience? Our state-of-the-art Learning Management System (LMS) is your gateway to mastering the English language. Whether you're a beginner looking to build a strong foundation or an advanced learner aiming to refine your skills, we have something for everyone.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -243,14 +258,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>BlackHorse</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="https://bootstrapmade.com/">Bootstrap</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
